@@ -83,7 +83,7 @@ body{
  
  a.info-box{
      text-decoration : none;
-     background      : rgb(255, 255, 255);
+     background      : white;
      width           : 90%;
      height          : 90px;
      display         : block;
